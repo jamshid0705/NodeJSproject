@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "nodemon": "^2.0.15"
+  }
+}

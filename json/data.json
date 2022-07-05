@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "productName": "Orange",
+    "image": "https://images.pexels.com/photos/327098/pexels-photo-327098.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "1 🍊",
+    "price": "6.50",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
+  },
+  {
+    "id": 1,
+    "productName": "Pear",
+    "image": "https://images.pexels.com/photos/568471/pexels-photo-568471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "1 🍐",
+    "price": "5.00",
+    "organic": true,
+    "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world. Goat cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from cow’s milk, goat cheese differs in nutrient content."
+  },
+  {
+    "id": 2,
+    "productName": "Wine",
+    "image": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🍇",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 3,
+    "productName": "Pomegranate",
+    "image": "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "1 🍉",
+    "price": "3.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Cherry",
+    "image": "https://images.pexels.com/photos/35629/bing-cherries-ripe-red-fruit.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Germany",
+    "nutrients": "Vitamin G, Magnesium",
+    "quantity": "2 🍒",
+    "price": "2.00",
+    "organic": true,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Limon",
+    "image": "https://images.pexels.com/photos/161559/background-bitter-breakfast-bright-161559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Afrika",
+    "nutrients": "Vitamin D",
+    "quantity": "1 🍋",
+    "price": "3.00",
+    "organic": true,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 6,
+    "productName": "Banana",
+    "image": "https://images.pexels.com/photos/1093038/pexels-photo-1093038.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Arabic",
+    "nutrients": "Vitamin A",
+    "quantity": "1 🍌",
+    "price": "2.00",
+    "organic": true,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 7,
+    "productName": "Ananas",
+    "image": "https://images.pexels.com/photos/174670/pexels-photo-174670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "India",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🍍",
+    "price": "10.00",
+    "organic": true,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 8,
+    "productName": "Apple",
+    "image": "https://images.pexels.com/photos/2966150/pexels-photo-2966150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "from": "Uzbekistan",
+    "nutrients": "Vitamin A",
+    "quantity": "1 🍏",
+    "price": "2.00",
+    "organic": true,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  }
+]
